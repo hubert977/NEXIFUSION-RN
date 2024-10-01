@@ -16,5 +16,5 @@ The CRM Mobile App is a mobile application designed to provide users with access
 - **React Native**: Used for building cross-platform mobile applications.
 - **Redux**: For managing application state across components.
 - **React Navigation**: For handling navigation within the app.
-- **Axios**: For making API calls to the backend services.
+- **Apollo Client**: For making API calls to the backend services.
 - **Chart.js / D3.js**: For data visualization, adapted for mobile screens.
