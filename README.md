@@ -1,4 +1,4 @@
-# NEXICRM React Native APP
+# NEXIFUSION React Native APP
 
 ## Description
 The CRM Mobile App is a mobile application designed to provide users with access to the Customer Relationship Management system on their mobile devices. Built using React Native, the app offers a seamless experience for managing customer relationships, tracking sales processes, and accessing HR functionalities, all from the convenience of a smartphone.
